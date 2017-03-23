@@ -1,6 +1,6 @@
 {
-  "name": "swiggy",
-  "version": "q.0.0",
+  "name": "realtimecommentsapp",
+  "version": "1.0.0",
   "description": "facebook comment post",
   "main": "app.js",
   "author": "Nawaz",
