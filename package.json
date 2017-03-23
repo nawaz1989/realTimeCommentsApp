@@ -1,0 +1,13 @@
+{
+  "name": "swiggy",
+  "version": "q.0.0",
+  "description": "facebook comment post",
+  "main": "app.js",
+  "author": "Nawaz",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.14.1",
+    "socket.io": "^1.7.3"
+  }
+}
